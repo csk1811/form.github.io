@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Blog Post 1">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Post Template</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Post-Template.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 3.4.1, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    
+    
+    
+    
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"url": "index.html",
+		"logo": "images/Logo-appacompleted.jpg"
+}</script>
+    <meta property="og:title" content="Post Template">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#478ac9">
+    <link rel="canonical" href="index.html">
+    <meta property="og:url" content="index.html">
+  </head>
+  <body class="u-body"><header class="u-clearfix u-header u-sticky u-white u-header" id="sec-4035"><h2 class="u-text u-text-custom-color-3 u-text-1">CRAFTSMAN HOME DECORS</h2><a href="https://google.com" class="u-image u-logo u-image-1" title="logo" target="_blank">
+        <img src="images/Logo-appacompleted.jpg" class="u-logo-image u-logo-image-1" data-image-width="78.6886">
+      </a><nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+        <div class="menu-collapse" style="font-size: 1.25rem; letter-spacing: 0px; font-weight: 700;">
+          <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-radius-28 u-text-active-palette-1-base u-text-hover-palette-2-base" href="#" style="padding: 15px 18px; font-size: calc(1em + 30px);">
+            <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</symbol>
+</defs></svg>
+          </a>
+        </div>
+        <div class="u-custom-menu u-nav-container">
+          <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-radius-28 u-text-active-grey-90 u-text-grey-90 u-text-hover-custom-color-1" href="HOME.html" target="_blank" style="padding: 10px 28px;">HOME</a>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-radius-28 u-text-active-grey-90 u-text-grey-90 u-text-hover-custom-color-1" href="ABOUT-US.html" style="padding: 10px 28px;">About us</a>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-radius-28 u-text-active-grey-90 u-text-grey-90 u-text-hover-custom-color-1" href="HOME.html#sec-7ca2" data-page-id="13434318" target="_blank" style="padding: 10px 28px;">Service</a>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-radius-28 u-text-active-grey-90 u-text-grey-90 u-text-hover-custom-color-1" style="padding: 10px 28px;">Contact us</a>
+</li></ul>
+        </div>
+        <div class="u-custom-menu u-nav-container-collapse">
+          <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+            <div class="u-sidenav-overflow">
+              <div class="u-menu-close"></div>
+              <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="HOME.html" target="_blank" style="padding: 10px 28px;">HOME</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="ABOUT-US.html" style="padding: 10px 28px;">About us</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="HOME.html#sec-7ca2" data-page-id="13434318" target="_blank" style="padding: 10px 28px;">Service</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" style="padding: 10px 28px;">Contact us</a>
+</li></ul>
+            </div>
+          </div>
+          <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+        </div>
+      </nav><a href="#sec-5fe8" class="u-active-palette-2-base u-border-2 u-border-white u-btn u-btn-round u-button-style u-custom-color-1 u-dialog-link u-hover-palette-2-light-2 u-radius-50 u-btn-1">REQUEST CALL BACK<br>
+      </a></header>
+    <section class="u-clearfix u-section-1" id="sec-2d93">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <img src="images/default-image.jpg" alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-1" data-image-width="1080" data-image-height="1080">
+        <h2 class="u-blog-control u-custom-font u-expanded-width u-heading-font u-text u-text-1">
+          <a class="u-post-header-link" href="#">Blog Post 1</a>
+        </h2>
+        <div class="u-metadata u-metadata-1">
+          <span class="u-meta-date u-meta-icon">Mon Jan 25 2021</span>
+          <span class="u-meta-category u-meta-icon">Category</span>
+          <span class="u-meta-comments u-meta-icon">Comments (0)</span>
+        </div>
+        <div class="u-blog-control u-expanded-width-sm u-expanded-width-xl u-expanded-width-xs u-post-content u-text u-text-2">
+          <p>Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
+        </div>
+      </div>
+    </section>
+    
+    
+    
+    
+    
+    
+    
+    
+    <footer class="u-align-left u-clearfix u-footer u-grey-80 u-footer" id="sec-525e"><div class="u-clearfix u-sheet u-sheet-1">
+        <h6 class="u-text u-text-1">
+          <a class="u-active-none u-btn u-button-style u-hover-custom-color-1 u-none u-text-body-alt-color u-btn-1" href="HOME.html" data-page-id="13434318">HOME</a>
+        </h6>
+        <a class="u-border-2 u-border-grey-75 u-btn u-button-style u-none u-text-body-alt-color u-btn-2" href="HOME.html" data-page-id="13434318">About Us<br>
+        </a>
+        <a class="u-active-none u-btn u-button-style u-hover-custom-color-1 u-none u-text-body-alt-color u-btn-3" href="HOME.html#sec-7ca2" data-page-id="13434318">Service</a>
+        <h2 class="u-text u-text-white u-text-2">Contact Us</h2>
+        <a href="#sec-f5dd" class="u-active-palette-2-base u-border-2 u-border-white u-btn u-btn-round u-button-style u-custom-color-1 u-dialog-link u-hover-palette-2-light-2 u-radius-50 u-btn-4">REQUEST CALL BACK<br>
+        </a>
+        <h2 class="u-text u-text-body-alt-color u-text-3">Email Id</h2>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="https://nicepage.com/" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
+  <section class="u-black u-clearfix u-container-style u-dialog-block u-opacity u-opacity-70 u-section-4" id="sec-f5dd">
+      <div class="u-border-10 u-border-grey-75 u-container-style u-dialog u-white u-dialog-1">
+        <div class="u-container-layout u-container-layout-1"></div><button class="u-dialog-close-button u-icon u-text-grey-40 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 16 16" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-7d9f"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 16 16" x="0px" y="0px" id="svg-7d9f"><rect x="7" y="0" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.3138 8.0002)" width="2" height="16"></rect><rect x="0" y="7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.3138 8.0002)" width="16" height="2"></rect></svg></button>
+      </div>
+    </section><style>.u-section-4 {
+  min-height: 852px;
+}
+
+.u-section-4 .u-dialog-1 {
+  width: 800px;
+  min-height: 616px;
+  height: auto;
+  margin: 198px auto 38px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-icon-1 {
+  width: 20px;
+  height: 20px;
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-dialog-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-dialog-1 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-dialog-1 {
+    width: 340px;
+  }
+}</style><section class="u-clearfix u-container-style u-dialog-block u-grey-50 u-opacity u-opacity-70 u-section-5" id="sec-5fe8">
+      <div class="u-container-style u-dialog u-image u-shading u-image-1" data-image-width="405" data-image-height="385">
+        <div class="u-container-layout u-container-layout-1">
+          <div class="u-form u-form-1">
+            <form action="scripts/form-5fe8.php" method="POST" class="u-clearfix u-form-spacing-11 u-form-vertical u-inner-form" style="padding: 12px;" source="customphp" name="form">
+              <input type="hidden" id="siteId" name="siteId" value="597503557">
+              <input type="hidden" id="pageId" name="pageId" value="13434318">
+              <div class="u-form-group u-form-name">
+                <label for="name-7257" class="u-form-control-hidden u-label">Name</label>
+                <input type="text" placeholder="" id="name-7257" name="name" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-radius-41 u-white" required="">
+              </div>
+              <div class="u-form-email u-form-group">
+                <label for="email-7257" class="u-form-control-hidden u-label">Email</label>
+                <input type="email" placeholder="" id="email-7257" name="email" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-radius-41 u-white" required="">
+              </div>
+              <div class="u-form-group u-form-group-3">
+                <label for="text-891d" class="u-form-control-hidden u-label"></label>
+                <input type="text" placeholder="" id="text-891d" name="text" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-radius-41 u-white">
+              </div>
+              <div class="u-form-group u-form-message">
+                <label for="message-7257" class="u-form-control-hidden u-label">Message</label>
+                <textarea placeholder="" rows="4" cols="50" id="message-7257" name="message" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-radius-41 u-white" required=""></textarea>
+              </div>
+              <div class="u-align-center u-form-group u-form-submit">
+                <a href="#" class="u-active-palette-1-base u-btn u-btn-submit u-button-style u-gradient u-hover-palette-2-light-1 u-none u-btn-1">Submit</a>
+                <input type="submit" value="submit" class="u-form-control-hidden">
+              </div>
+              <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
+              <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
+              <input type="hidden" value="" name="recaptchaResponse">
+            </form>
+          </div>
+          <h3 class="u-text u-text-default u-text-1">&nbsp;Name :</h3>
+          <h3 class="u-text u-text-default u-text-2">&nbsp;Mobile No. :</h3>
+          <h3 class="u-text u-text-default u-text-3">&nbsp;Email ID :</h3>
+          <h3 class="u-text u-text-default u-text-4">&nbsp;Remark :</h3>
+          <h6 class="u-align-center u-text u-text-5">&nbsp;Response with in 24hour<br>
+          </h6>
+        </div><button class="u-dialog-close-button u-icon u-text-grey-40 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 16 16" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-4513"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 16 16" x="0px" y="0px" id="svg-4513"><rect x="7" y="0" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.3138 8.0002)" width="2" height="16"></rect><rect x="0" y="7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.3138 8.0002)" width="16" height="2"></rect></svg></button>
+      </div>
+    </section><style>.u-section-5 {
+  min-height: 852px;
+}
+
+.u-section-5 .u-image-1 {
+  width: 800px;
+  min-height: 440px;
+  height: auto;
+  background-image: linear-gradient(0deg, rgba(102,102,102,0.5), rgba(102,102,102,0.5)), url("images/Logo-appacompleted.jpg");
+  margin: 90px auto 60px;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-form-1 {
+  height: 370px;
+  margin: 0 30px 0 221px;
+}
+
+.u-section-5 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-5 .u-btn-1 {
+  border-style: none;
+  background-image: linear-gradient(#d1272e, #d1272e);
+}
+
+.u-section-5 .u-text-1 {
+  margin: -349px 519px 0 auto;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 21px 519px 0 auto;
+}
+
+.u-section-5 .u-text-3 {
+  margin: 21px auto 0 87px;
+}
+
+.u-section-5 .u-text-4 {
+  margin: 19px 519px 0 auto;
+}
+
+.u-section-5 .u-text-5 {
+  margin: 144px 184px -19px 320px;
+}
+
+.u-section-5 .u-icon-1 {
+  width: 20px;
+  height: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-form-1 {
+    margin-top: -359px;
+    margin-left: 221px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-right: 519px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-right: 519px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-left: 87px;
+  }
+
+  .u-section-5 .u-text-4 {
+    margin-right: 519px;
+  }
+
+  .u-section-5 .u-text-5 {
+    margin-right: 184px;
+    margin-left: 320px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-image-1 {
+    width: 720px;
+  }
+
+  .u-section-5 .u-form-1 {
+    margin-right: 0;
+    margin-left: 171px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-right: 463px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-right: 463px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-left: 78px;
+  }
+
+  .u-section-5 .u-text-4 {
+    margin-right: 463px;
+  }
+
+  .u-section-5 .u-text-5 {
+    margin-right: 144px;
+    margin-left: 280px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-image-1 {
+    width: 540px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-form-1 {
+    margin-top: -395px;
+    margin-left: 31px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-right: 365px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-right: 365px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-left: 61px;
+  }
+
+  .u-section-5 .u-text-4 {
+    margin-right: 365px;
+  }
+
+  .u-section-5 .u-text-5 {
+    margin-right: 74px;
+    margin-left: 210px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-image-1 {
+    width: 340px;
+  }
+
+  .u-section-5 .u-form-1 {
+    margin-top: -339px;
+    margin-left: 0;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-right: 225px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-right: 225px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-left: 38px;
+  }
+
+  .u-section-5 .u-text-4 {
+    margin-right: 225px;
+  }
+
+  .u-section-5 .u-text-5 {
+    margin-right: 0;
+    margin-left: 84px;
+  }
+}</style></body>
+</html>
